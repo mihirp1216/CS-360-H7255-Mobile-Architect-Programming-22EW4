@@ -7,12 +7,14 @@ This program is an inventory tracker, and it is built to allow for user login as
 # •	What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
 The app allows for user registration, login, and a forgot password option: 
+
 <img width="355" alt="Screen Shot 2022-04-20 at 5 34 08 AM" src="https://user-images.githubusercontent.com/73370228/164201414-992323b4-c054-4aa5-99dc-5e6bbda09a16.png">
 ![Picture1](https://user-images.githubusercontent.com/73370228/164201581-381ac053-c20e-4ed9-9550-6a68c2dcfa12.png)
 <img width="355" alt="Screen Shot 2022-04-20 at 5 36 03 AM" src="https://user-images.githubusercontent.com/73370228/164201419-8e3b5125-151a-4b8a-96df-d1c6880478e5.png">
 
 
 The primary function of the app as an inventory tracker allows a user to add, edit, and delete data, giving CRUD functionality between the user and the SQLite database housing the data:
+
 ![Picture2](https://user-images.githubusercontent.com/73370228/164201621-e589c3bc-ff2f-4188-a59a-fa0358e0dce3.png)
 ![Picture3](https://user-images.githubusercontent.com/73370228/164201627-9e1db991-e7da-4626-a9f0-8583f450ff32.png)
 ![Picture4](https://user-images.githubusercontent.com/73370228/164201629-da49e1c8-9165-400e-9ade-8e9f0b4ef982.png)
