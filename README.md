@@ -9,7 +9,7 @@ This program is an inventory tracker, and it is built to allow for user login as
 The app allows for user registration, login, and a forgot password option: 
 
 <img width="355" alt="Screen Shot 2022-04-20 at 5 34 08 AM" src="https://user-images.githubusercontent.com/73370228/164201414-992323b4-c054-4aa5-99dc-5e6bbda09a16.png">
-![Picture1](https://user-images.githubusercontent.com/73370228/164201825-b7beda35-892c-4e37-85b6-e077d1998625.png)
+<img width="355" alt="Screen Shot 2022-04-20 at 5 34 08 AM" src="https://user-images.githubusercontent.com/73370228/164201825-b7beda35-892c-4e37-85b6-e077d1998625.png">
 <img width="355" alt="Screen Shot 2022-04-20 at 5 36 03 AM" src="https://user-images.githubusercontent.com/73370228/164201419-8e3b5125-151a-4b8a-96df-d1c6880478e5.png">
 
 
